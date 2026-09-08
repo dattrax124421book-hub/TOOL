@@ -1,0 +1,6 @@
+{
+  "name": "Glitch Engine",
+  "description": "All-in-One MCPE Bedrock Android Modding Tool with Dex/Smali editor, Hex patcher, Mod Menu builder, and Native hooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
